@@ -7,6 +7,10 @@
 Sphere comes with powerful code generation tools to create `proto` files, `Swagger` documents, `TypeScript` clients, and
 more, speeding up your development workflow.
 
+## Core
+- [sphere](https://github.com/go-sphere/sphere) - A multi-server application template
+- [sphere-layout](https://github.com/go-sphere/sphere-layout) - Sphere standard layout
+
 ## toolchains
 - [sphere-cli](https://github.com/go-sphere/sphere-cli) - A command-line tool designed to streamline the development of Sphere projects.
 - [protoc-gen-route](https://github.com/go-sphere/protoc-gen-route) - A protoc plugin that generates routing code from `.proto` files.
