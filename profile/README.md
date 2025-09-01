@@ -14,6 +14,11 @@ more, speeding up your development workflow.
 - [sphere-layout](https://github.com/go-sphere/sphere-layout) - Sphere standard layout
 - [sphere-simple-layout](https://github.com/go-sphere/sphere-simple-layout) - Sphere simple layout
 
+## protobuf
+- [errors](https://buf.build/go-sphere/errors)
+- [options](https://buf.build/go-sphere/options)
+- [binding](https://buf.build/go-sphere/binding)
+
 ## toolchains
 - [sphere-cli](https://github.com/go-sphere/sphere-cli) - A command-line tool designed to streamline the development of Sphere projects.
 - [protoc-gen-route](https://github.com/go-sphere/protoc-gen-route) - A protoc plugin that generates routing code from `.proto` files.
