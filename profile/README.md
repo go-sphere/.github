@@ -1,4 +1,4 @@
-# [Sphere](https://github.com/go-sphere/sphere)
+# Sphere Projects
 
 ![](./social_preview.png)
 
