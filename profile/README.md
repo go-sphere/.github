@@ -1,6 +1,6 @@
 # Sphere Projects
 
-![](./social_preview.png)
+[![](./social_preview.png)](https://github.com/go-sphere/sphere)
 
 [**Sphere**](https://github.com/go-sphere/sphere) is a project template for building monolithic applications with a focus on simplicity, maintainability, and scalability. It uses `ent` for schema management and `proto` for API definitions, providing a solid foundation that can be adapted for microservices as your project evolves.
 
