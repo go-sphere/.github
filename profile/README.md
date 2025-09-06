@@ -1,11 +1,10 @@
-# Sphere Projects
+# Sphere
 
 [![](./social_preview.png)](https://github.com/go-sphere/sphere)
 
-[**Sphere**](https://github.com/go-sphere/sphere) is a project template for building monolithic applications with a focus on simplicity, maintainability, and scalability. It uses `ent` for schema management and `proto` for API definitions, providing a solid foundation that can be adapted for microservices as your project evolves.
+**Protobuf-first Go service framework for definition-driven development**
 
-Sphere comes with powerful code generation tools to create `proto` files, `Swagger` documents, `TypeScript` clients, and
-more, speeding up your development workflow.
+Start modular monolithic, scale to microservices. Define once in Protobuf, generate Go handlers, HTTP routing, client SDKs, OpenAPI docs, and TypeScript bindings from a single source of truth. Complete code generation toolchain with structured error handling and developer-friendly CLI tools.
 
 ## core
 - [sphere](https://github.com/go-sphere/sphere) - A multi-server application template
