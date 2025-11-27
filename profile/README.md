@@ -10,8 +10,9 @@ Start modular monolithic, scale to microservices. Define once in Protobuf, gener
 - [sphere](https://github.com/go-sphere/sphere) - A multi-server application template
 
 ## layout
-- [sphere-layout](https://github.com/go-sphere/sphere-layout) - Sphere standard layout
-- [sphere-simple-layout](https://github.com/go-sphere/sphere-simple-layout) - Sphere simple layout
+- [`sphere-layout`](https://github.com/go-sphere/sphere-layout) : Default sphere project layout template with `ent` as ORM.
+- [`sphere-simple-layout`](https://github.com/go-sphere/sphere-simple-layout) : A simplified version of the Sphere project layout template.
+- [`sphere-bun-layout`](https://github.com/go-sphere/sphere-bun-layout) : A layout template with `bun` as ORM.
 
 ## protobuf
 - [errors](https://buf.build/go-sphere/errors)
