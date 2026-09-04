@@ -6,7 +6,8 @@
 
 Start modular monolithic, scale to microservices. Define once in Protobuf, generate Go handlers, HTTP routing, client SDKs, OpenAPI docs, and TypeScript bindings from a single source of truth. Complete code generation toolchain with structured error handling and developer-friendly CLI tools.
 
-## CI status
+<details>
+<summary><strong>CI status</strong></summary>
 
 | Repository | Status |
 | --- | --- |
@@ -31,6 +32,8 @@ Start modular monolithic, scale to microservices. Define once in Protobuf, gener
 | [wecom-aibot-go-sdk](https://github.com/go-sphere/wecom-aibot-go-sdk) | [![Test](https://github.com/go-sphere/wecom-aibot-go-sdk/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/go-sphere/wecom-aibot-go-sdk/actions/workflows/build.yml) |
 | [wecom-bot-api](https://github.com/go-sphere/wecom-bot-api) | [![Test](https://github.com/go-sphere/wecom-bot-api/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/go-sphere/wecom-bot-api/actions/workflows/build.yml) |
 | [weixin-mp-api](https://github.com/go-sphere/weixin-mp-api) | [![Test](https://github.com/go-sphere/weixin-mp-api/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/go-sphere/weixin-mp-api/actions/workflows/build.yml) |
+
+</details>
 
 ## core
 - [sphere](https://github.com/go-sphere/sphere) - A multi-server application template
