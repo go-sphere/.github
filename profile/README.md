@@ -28,6 +28,7 @@ Start modular monolithic, scale to microservices. Define once in Protobuf, gener
 | [sphere-cli](https://github.com/go-sphere/sphere-cli) | [![Test](https://github.com/go-sphere/sphere-cli/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/go-sphere/sphere-cli/actions/workflows/build.yml) |
 | [sphere-layout](https://github.com/go-sphere/sphere-layout) | [![Test](https://github.com/go-sphere/sphere-layout/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/go-sphere/sphere-layout/actions/workflows/build.yml) |
 | [sphere-simple-layout](https://github.com/go-sphere/sphere-simple-layout) | [![Test](https://github.com/go-sphere/sphere-simple-layout/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/go-sphere/sphere-simple-layout/actions/workflows/build.yml) |
+| [sphere-telegram-layout](https://github.com/go-sphere/sphere-telegram-layout) | [![Test](https://github.com/go-sphere/sphere-telegram-layout/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/go-sphere/sphere-telegram-layout/actions/workflows/build.yml) |
 | [telegram-bot](https://github.com/go-sphere/telegram-bot) | [![Test](https://github.com/go-sphere/telegram-bot/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/go-sphere/telegram-bot/actions/workflows/build.yml) |
 | [wecom-aibot-go-sdk](https://github.com/go-sphere/wecom-aibot-go-sdk) | [![Test](https://github.com/go-sphere/wecom-aibot-go-sdk/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/go-sphere/wecom-aibot-go-sdk/actions/workflows/build.yml) |
 | [wecom-bot-api](https://github.com/go-sphere/wecom-bot-api) | [![Test](https://github.com/go-sphere/wecom-bot-api/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/go-sphere/wecom-bot-api/actions/workflows/build.yml) |
@@ -42,6 +43,7 @@ Start modular monolithic, scale to microservices. Define once in Protobuf, gener
 - [`sphere-layout`](https://github.com/go-sphere/sphere-layout) : Default sphere project layout template with `ent` as ORM.
 - [`sphere-simple-layout`](https://github.com/go-sphere/sphere-simple-layout) : A simplified version of the Sphere project layout template.
 - [`sphere-bun-layout`](https://github.com/go-sphere/sphere-bun-layout) : A layout template with `bun` as ORM.
+- [`sphere-telegram-layout`](https://github.com/go-sphere/sphere-telegram-layout) : The default Ent layout with a Telegram Bot lifecycle example.
 
 ## protobuf
 - [errors](https://buf.build/go-sphere/errors)
